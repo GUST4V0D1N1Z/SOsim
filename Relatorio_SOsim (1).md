@@ -2,10 +2,10 @@
 # Relatório - Atividade com SOsim
 
 ## Identificação
-- Nome: __________________  
+- Nome: GUSTAVO AUGUSTO CARNEIRO DINIZ 
 - Disciplina: Sistemas Operacionais  
 - Ferramenta: SOsim  
-- Data: __________________
+- MAT: 25114290112
 
 ## 1. Observações da Simulação (registro)
 - Tempo da simulação analisada: **524** ticks.  
